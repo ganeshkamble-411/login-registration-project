@@ -76,7 +76,7 @@ POST /auth/register
 ```json
 {
   "email": "user@example.com",
-  "password": "123456"
+  "password": "12345"
 }
 ```
 
@@ -101,7 +101,7 @@ POST /auth/login
 ```json
 {
   "email": "user@example.com",
-  "password": "123456"
+  "password": "12345"
 }
 ```
 
